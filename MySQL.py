@@ -1,4 +1,6 @@
 __author__ = 'wookie'
+# (c) 2016,2017 - Timothy D. Witham tim.wookie.witham@gmail.com
+# Licensed under BSD 2-Clause
 from components.FileOps import writeLog, putSectionParms, putConfigParms, getSQLCode, writeTrace
 from components.infrastructure import subSQL
 import pymysql
